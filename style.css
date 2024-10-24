@@ -1,3 +1,17 @@
 * {
     transition: box-shadow 0.3s ease, transform 0.3s ease; 
 }
+
+#nav-icon {
+    width: 30px;
+    margin: 0 20px;
+}
+
+#navbarNav {
+    font-size: 20px;
+    justify-content: center;
+}
+
+.nav-item {
+    padding: 0 50px;
+}
